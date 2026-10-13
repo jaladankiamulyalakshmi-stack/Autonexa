@@ -1,0 +1,6 @@
+{
+  "name": "AUTONEXA",
+  "description": "Discover Smarter. Close Faster. AI-Powered Sales Pipeline Autopilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
